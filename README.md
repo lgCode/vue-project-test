@@ -1,4 +1,4 @@
-# vue-project-test
+﻿# vue-project-test
 
 > A Vue.js project
 
@@ -19,6 +19,6 @@ npm run build --report
 ```
 vue实战项目书籍小例子：仿知乎日报（由于知乎API接口失效，使用easyMock + mockJS编写的API接口）
 
-使用技术工具：vuecli+webpack+node+easyMock+mockjs+postMan
+使用技术工具：vue+vuecli+webpack+node+easyMock+mockjs+postMan
 
 
